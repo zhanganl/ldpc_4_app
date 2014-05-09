@@ -1,0 +1,9 @@
+#CFLAGS += -O2 -Wall
+CFLAGS += -g
+#LDFLAGS += -Wall
+CC = gcc
+LD = gcc
+AR = ar
+RANLIB = ranlib
+DEPEND = makedepend
+
